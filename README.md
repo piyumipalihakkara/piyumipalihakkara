@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @piyumipalihakkara
+ 👋 Hi, I’m @piyumipalihakkara
 
 
 <!---
-piyumipalihakkara/piyumipalihakkara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I 'm Full stack developer looking to solve real world problems.I have a passion for learning and sharing my knowlege with others as possible. I have created Applications if you found value in something I would like to chat with anyone and resect their opininons and learn more.
 --->
